@@ -1,4 +1,4 @@
-# NigG4g
+# 9GagClone
 
 ## Introduction
 An unoffical clone of 9Gag. Made with purpose of learning web development in general.
