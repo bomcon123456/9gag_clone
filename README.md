@@ -60,7 +60,7 @@ What we aim to do is whatever we make, it should function as close as possible a
   - Prerequisite: Stylus, FFmpeg (such that it can run in cmd)
   - Only test with 4 computers so there might not be work with you, email me at termanteus@gmail.com if need help of course.
   
-  Current directory: .../Nigg4g
+  Current directory: .../9gag_clone
   ```
     npm install
     cd server && npm install 
@@ -78,32 +78,32 @@ What we aim to do is whatever we make, it should function as close as possible a
   - OG-tag for sharing
   - Night mode
   - Notification Systems
-  - Moving Image/ Video Processing to another server so that it can process faster and be capable to response to many request.
+  - Moving Image/ Video Processing to another server so it can process faster and respond to many requests.
 
 
 ## What I Learned:
 - Web Dev:
-  - Before starting this project, what I know about Web dev in general and React, Node.js in particular is very scarce, since I've been a game dev for a while using C++ and Unreal Engine 4. So here is some summary of some techniques that I currently remember to write down for now:
+  - Before starting this project, what I knew about Web dev in general and React, Node.js in particular was very scarce, since I've been a game dev for a while using C++ and Unreal Engine 4. So here is a summary of some techniques that I currently remember to write down for now:
     - React:
       - All in the Features sections:
         - Component-Based Design
-        - Redux workaround: Using custom cached, state design
+        - Redux workaround: Using custom cached state design
         - Custom API "communicator"
         - Router
         - .env
-        - What not to do and not able to do in front-end
+        - What not to do and what is not able to do in front-end
     - Node.js:
-      - More compacted and easy to control Model, Controller for each model.
+      - More compact and easy to control Model, Controller for each model.
       - HTTPs server: create key, messing around with cert and use those with express.js
       - Image/ Video Processing using ffmpeg
-      - Hot/Trending algorithm: eventhough this is not made into the final version, I've already been reading a bunch about these and gathered some knowledge for myself.
+      - Hot/Trending algorithm: even though this is not made into the final version, I've already been reading a bunch about these and gathered some knowledge for myself.
       - Recursive Comment
     - HTML, CSS:
-      - Before this project, I have zero knowledge at all, then my friend suggested me learning Stylus and now I can somewhat write and style a webpage.
+      - Before this project, I had zero knowledge, then my friend suggested that I learn Stylus, and now I can write and style a webpage.
     - DevOps:
-      - I sensed a slight slight VERY slight of what a devOps might be doing and it feels like devOps is a very OP people <3.
+      - I sensed a slight, VERY slight, of what a devOps might be doing, and it feels like devOps is a very OP people <3.
 
 ## Contributors
-This project is created at June 21 2019 by me (Dao Tuan Trung) and Nguyen Khac Minh. Nigg4g was being continously commited until July 18 and then have been "abandoned" from since due to life schedule of both of us.
+This project is created at June 21 2019 by me (Dao Tuan Trung) and Nguyen Khac Minh. 9Gag_clone was being continuously committed until July 18 and then has been "abandoned" since due to the life schedules of both of us.
 
-Greatly thank Nguyen Khac Minh for his contribution. NKM solely made the front-end of nav-bar, toolbar, sidebar and the whole account's settings page, also very funny 404 page (original to 9Gag).
+Greatly thank Nguyen Khac Minh for his contribution. NKM solely made the front-end of the nav-bar, toolbar, sidebar, and the whole account's settings page, as well as a very funny 404 page (original to 9Gag).
